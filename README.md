@@ -75,6 +75,7 @@ Developed by:Divya Sri
 RegisterNumber:24901155
 
 **RTL Schematic**
+
 [Screenshot 2024-12-03 094055](https://github.com/user-attachments/assets/f830b363-9498-4d03-8d2c-f193e5a2ce1b)
 ![Screenshot 2024-12-03 094100](https://github.com/user-attachments/assets/3f8c2802-69c2-4126-b2bc-34c76303db22)
 
