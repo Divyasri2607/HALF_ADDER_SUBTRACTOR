@@ -75,16 +75,15 @@ Developed by:Divya Sri
 RegisterNumber:24901155
 
 **RTL Schematic**
+![Screenshot 2024-12-30 054328](https://github.com/user-attachments/assets/3be271e6-479c-40c9-b739-9ce193f8346f)
 
-[Screenshot 2024-12-03 094055](https://github.com/user-attachments/assets/f830b363-9498-4d03-8d2c-f193e5a2ce1b)
+![Screenshot 2024-12-30 054345](https://github.com/user-attachments/assets/2a12095d-1a15-451e-bef9-50d4b45d938f)
 
-![Screenshot 2024-12-03 094100](https://github.com/user-attachments/assets/3f8c2802-69c2-4126-b2bc-34c76303db22)
 
 **Output/TIMING Waveform**
+![Screenshot 2024-12-30 054356](https://github.com/user-attachments/assets/43ccbba9-df66-4280-be25-6ea382b56ec4)
 
-[Screenshot 2024-12-03 094110](https://github.com/user-attachments/assets/db38bd6b-bcfd-4c81-98cd-117e9cea3895)
-
-![Screenshot 2024-12-03 094118](https://github.com/user-attachments/assets/4333324a-3eb4-468e-aff3-71623ca9fcb8)
+![Screenshot 2024-12-30 054407](https://github.com/user-attachments/assets/a1513447-47f4-4d55-b880-8892e57b3f01)
 
 
 **Result:**
